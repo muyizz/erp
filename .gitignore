@@ -1,0 +1,28 @@
+# Maven
+**/target/
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Node
+node_modules/
+dist/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
